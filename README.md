@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Akhileswar</h1>
-<h3 align="center">Driven full stack developer from India, passionate about learning and building impactful, scalable applications end-to-end.</h3>
+<h3 align="center">Eager Software Developer from India, Driven by a Love for Coding.</h3>
 
 
 
