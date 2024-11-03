@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Akhileswar</h1>
 <h3 align="center">Driven full stack developer from India, passionate about learning and building impactful, scalable applications end-to-end.</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=akhil351&label=Profile%20views&color=0e75b6&style=flat" alt="akhil351" /> </p>
+
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=akhil351" alt="akhil351" /></a> </p>
 
