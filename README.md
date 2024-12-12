@@ -65,9 +65,6 @@
    <a href="https://tomcat.apache.org/" target="_blank" rel="noreferrer"> 
     <img src="https://www.vectorlogo.zone/logos/apache_tomcat/apache_tomcat-icon.svg" alt="apache tomcat" width="40" height="40"/> 
 </a> 
-<a href="https://jwt.io/" target="_blank" rel="noreferrer"> 
-    <img src="https://www.vectorlogo.zone/logos/jsonwebtoken/jsonwebtoken-icon.svg" alt="jwt" width="40" height="40"/> 
-</a>
 
 </p>
 
