@@ -1,12 +1,11 @@
 <h1 align="center">Hi 👋, I'm Akhileswar</h1>
-<h3 align="center">Eager Software Developer from India, Driven by a Love for Coding.</h3>
 
 ---
 
 <h3 align="left">💫 About Me:</h3>
 <ul>
-  <li>🌱 I’m currently learning <strong>React JSX, Spring Boot, and GoLang</strong>.</li>
   <li>🌟 Currently an <strong>Intern at Ideyalabs</strong>.</li>
+  <li>🌱 I’m currently learning <strong>React JSX, Spring Boot, and GoLang</strong>.</li>
   <li>📫 How to reach me: <a href="mailto:akhil.vathaluru@gmail.com">akhil.vathaluru@gmail.com</a>.</li>
 </ul>
 
