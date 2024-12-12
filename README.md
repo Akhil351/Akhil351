@@ -7,13 +7,6 @@
 
 <p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/v-akhileswar-a46062250" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="v-akhileswar-a46062250" height="30" width="40" /></a>
-<a href="https://instagram.com/akhil___351" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="akhil___351" height="30" width="40" /></a>
-<a href="https://www.leetcode.com/akhil2004" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="akhil2004" height="30" width="40" /></a>
-</p>
-
 <h3 align="left">Languages and Tools:</h3>
 <p align="left"> 
   <a href="https://aws.amazon.com" target="_blank" rel="noreferrer"> 
@@ -73,12 +66,15 @@
   <a href="https://spring.io/" target="_blank" rel="noreferrer"> 
     <img src="https://www.vectorlogo.zone/logos/springio/springio-icon.svg" alt="spring" width="40" height="40"/> 
   </a> 
+  <a href="https://golang.org/" target="_blank" rel="noreferrer"> 
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/go/go-original.svg" alt="golang" width="40" height="40"/> 
+  </a>
+  <a href="https://jwt.io/" target="_blank" rel="noreferrer"> 
+    <img src="https://img.icons8.com/color/48/000000/jwt.png" alt="JWT" width="40" height="40"/> 
+  </a>
 </p>
+
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=akhil351&show_icons=true&locale=en&layout=compact" alt="akhil351" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=akhil351&show_icons=true&locale=en" alt="akhil351" /></p>
-
-
-
-
