@@ -5,7 +5,7 @@
 <h3 align="left">💫 About Me:</h3>
 <ul>
   <li>🌟 Currently an <strong>Intern at Ideyalabs</strong>.</li>
-  <li>🌱 I’m currently learning <strong>React JSX, Spring Boot, and GoLang</strong>.</li>
+  <li>🌱 I am currently learning React JSX, Spring Boot, and GoLang, and I am working on projects related to these technologies.</li>
   <li>📫 How to reach me: <a href="mailto:akhil.vathaluru@gmail.com">akhil.vathaluru@gmail.com</a>.</li>
 </ul>
 
