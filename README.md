@@ -1,6 +1,6 @@
 <!-- Header with animated banner -->
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=3B82F6&height=200&section=header&text=Akhileswar%20Vathaluru&fontSize=80&fontAlignY=35&animation=twinkling&desc=Full%20Stack%20Developer%20|%20Blockchain%20Enthusiast&descAlignY=55&descAlign=50"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=3B82F6&height=200&section=header&text=Akhileswar%20Vathaluru&fontSize=80&fontAlignY=35&animation=twinkling&desc=Full%20Stack%20Developer%20|&descAlignY=55&descAlign=50"/>
 </div>
 
 <!-- Animated typing effect -->
