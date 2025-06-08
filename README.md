@@ -19,7 +19,7 @@
   <a href="https://github.com/Akhil351">
     <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
   </a>
-  <a href="https://akhil-amber.vercel.app/">
+  <a href="https://eshwar351.vercel.app/">
     <img src="https://img.shields.io/badge/Portfolio-000?style=for-the-badge&logo=About.me&logoColor=white" />
   </a>
 </div>
@@ -28,7 +28,7 @@
 
 ## 👨‍💻 About Me
 
-🎓 B.Tech CSE student at KL University (CGPA: 9.66)  
+🎓 B.Tech CSE student at KL University (CGPA: 9.43)  
 💼 Associate Software Engineer @ Ideyalabs  
 💡 Blockchain developer with hands-on Hyperledger Fabric & Corda  
 🚀 Passionate about distributed systems and microservices
