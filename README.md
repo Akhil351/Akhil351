@@ -5,7 +5,7 @@
 
 <!-- Animated typing effect -->
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=30&pause=1000&color=3B82F6&center=true&vCenter=true&width=600&height=80&lines=Scalable+Systems+Builder;Spring+Boot+%7C+GoLang+%7C+React;Blockchain+%7C+Microservices+%7C+Cloud" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=30&pause=1000&color=3B82F6&center=true&vCenter=true&width=600&height=80&lines=Scalable+Systems+Builder;Spring+Boot+%7C+GoLang+%7C+React;Blockchain+%7C+Microservices" />
 </div>
 
 <!-- Contact buttons -->
