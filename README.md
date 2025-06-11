@@ -30,7 +30,7 @@
 
 🎓 B.Tech CSE student at KL University (CGPA: 9.43)  
 💼 Associate Software Engineer @ Ideyalabs  
-💡 Blockchain developer with hands-on Hyperledger Fabric & Corda  
+💡 Blockchain developer with hands-on Hyperledger Fabric  
 🚀 Passionate about distributed systems and microservices
 
 ---
