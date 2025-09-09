@@ -32,11 +32,13 @@
 ## 💼 Experience
 
 ### 💻 Associate Software Engineer — *Ideyalabs* (2024–Present)
-- Building a **FastAPI project** deployed on **AWS Lambda** with **Serverless Framework**  
-- Contributed to **CI/CD pipelines** using **AWS CodePipeline** & **CodeBuild**  
+- Building scalable services with **FastAPI**, deployed on **AWS Lambda** using **Serverless Framework**  
+- Implemented **CI/CD pipelines** with **AWS CodePipeline & CodeBuild**, writing pipeline stages and buildspecs for automated testing and deployment  
 - Developed **Go-based REST APIs** and chaincode integrations for **Hyperledger Fabric**  
-- Led migration efforts from **Corda → Hyperledger Fabric** to improve throughput  
-- Developed and maintained Spring Boot services for transaction coordination
+- Designed and deployed **smart contracts (chaincode)** in Go to enforce business logic on-chain  
+- Led migration from **Corda → Hyperledger Fabric**, improving performance and interoperability  
+- Maintained and enhanced **Spring Boot microservices** for transaction coordination  
+
 
 ---
 
