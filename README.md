@@ -1,6 +1,6 @@
 <!-- Header -->
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0ea5e9&height=160&section=header&text=Akhileswar&fontSize=60&fontAlignY=35&animation=twinkling&desc=Full%20Stack%20Developer&descAlignY=55&descAlign=50" alt="Akhileswar banner"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0ea5e9&height=160&section=header&text=Akhileswar&fontSize=60&fontAlignY=35&animation=twinkling&desc=Backend%20Developer&descAlignY=55&descAlign=50" alt="Akhileswar banner"/>
 
   <p style="margin-top:10px">
     <a href="https://www.linkedin.com/in/v-akhileswar-a46062250/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
@@ -14,8 +14,8 @@
 
 ## 👨‍💻 About Me
 **🎓** B.Tech CSE student at KL University · **CGPA:** 9.43  
-**💼** Associate Software Engineer @ Ideyalabs — backend & cloud-native apps  
-**⚡** Experienced in **FastAPI, Go, Spring Boot, Hyperledger Fabric**  
+**💼** Backend Developer @ Ideyalabs — backend & cloud-native apps  
+**⚡** Experienced in **FastAPI, Go, Spring Boot, Hyperledger Fabric, LangGraph, LangChain**  
 **🚀** Passionate about scalable backend systems, distributed architectures, and AI-driven applications
 
 ---
@@ -31,13 +31,17 @@
 
 ## 💼 Experience
 
-### 💻 Associate Software Engineer — *Ideyalabs* (2024–Present)
-- Building scalable services with **FastAPI**, deployed on **AWS Lambda** using **Serverless Framework**  
-- Implemented **CI/CD pipelines** with **AWS CodePipeline & CodeBuild**, writing pipeline stages and buildspecs for automated testing and deployment  
-- Developed **Go-based REST APIs** and chaincode integrations for **Hyperledger Fabric**  
-- Designed and deployed **smart contracts (chaincode)** in Go to enforce business logic on-chain  
+### 💻 Backend Developer — *Ideyalabs* (2024–Present)
+
+#### **Project: APEX - Transportation Back Office System**
+- Developed a **FastAPI backend** with **domain-driven architecture** for transportation operations, pricing/rating, and shipment management
+- Deployed serverless application on **AWS Lambda** using **Serverless Framework** with **CI/CD pipelines via GitHub Actions**
+- Integrated external services (**SMC3**, **HERE.com**, **AWS S3**, **SES**) and utilized **PostgreSQL with SQLAlchemy ORM**
+
+#### **Project: HLF - Blockchain Transaction System**
+- Built **RESTful APIs using Go** to store blockchain transactions and manage issue, redeem, and transfer operations
+- Engineered **Go-based smart contracts (chaincode)** for **Hyperledger Fabric** to enforce business logic for transaction operations
 - Led migration from **Corda → Hyperledger Fabric**, improving performance and interoperability  
-- Maintained and enhanced **Spring Boot microservices** for transaction coordination  
 
 
 ---
@@ -62,18 +66,28 @@
   <img src="https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white"/>
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
   <img src="https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=spring&logoColor=white"/>
+  <img src="https://img.shields.io/badge/LangGraph-9B59B6?style=for-the-badge&logo=&logoColor=white"/>
+  <img src="https://img.shields.io/badge/LangChain-10B981?style=for-the-badge&logo=&logoColor=white"/>
+  <img src="https://img.shields.io/badge/RAG-6366F1?style=for-the-badge&logo=&logoColor=white"/>
   <img src="https://img.shields.io/badge/Hyperledger-0F6AB4?style=for-the-badge&logo=hyperledger&logoColor=white"/>
   <img src="https://img.shields.io/badge/AWS-A23242?style=for-the-badge&logo=amazonaws&logoColor=white"/>
+  <img src="https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white"/>
+  <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white"/>
 </p>
 
 ---
 
 ## 📊 Stats
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=akhil351&show_icons=true&theme=radical" height="160" alt="GitHub stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=akhil351&layout=compact&theme=radical" height="160" alt="Top languages" />
-</p>
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Akhil351&show_icons=true&theme=radical&hide_border=false&include_all_commits=true&count_private=true" height="160" alt="GitHub stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Akhil351&layout=compact&theme=radical&hide_border=false&langs_count=8" height="160" alt="Top languages" />
+</div>
+
+<div align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Akhil351&theme=radical&hide_border=false" alt="GitHub Streak" />
+</div>
 
 ---
 
@@ -85,8 +99,8 @@
 </p>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=akhil351&style=flat-square&color=blue" alt="profile views"/>
-  <img src="https://img.shields.io/github/followers/akhil351?label=Followers&style=social" alt="followers"/>
+  <img src="https://komarev.com/ghpvc/?username=Akhil351&style=flat-square&color=blue" alt="profile views"/>
+  <img src="https://img.shields.io/github/followers/Akhil351?label=Followers&style=social" alt="followers"/>
 </p>
 
 ---
